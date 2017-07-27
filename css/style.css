@@ -1,0 +1,41 @@
+/*Custom stylesheet*/
+
+body {
+  background-color: black;
+}
+
+#color {
+  color: red;
+}
+
+#theme {
+  background-color: #FFFFFF;
+  position: absolute;
+  top: 20px;
+  left: 60px;
+}
+
+#cat {
+  background-color: red;
+  position: relative;
+  top: 50px;
+  left: 650px;
+}
+
+#dog {
+  background-color: yellow;
+  position: absolute;
+  top: 120px;
+  left: 800px;
+}
+
+#image {
+  background-color: blue;
+  position: absolute;
+  top:35px;
+  right: 30px
+}
+
+.back {
+  background-color: #FFFFFF;
+}
